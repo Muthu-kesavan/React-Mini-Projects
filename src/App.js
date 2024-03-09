@@ -1,9 +1,9 @@
 import './App.css';
-import Star from './Components/Star/Star';
+import Test from './Components/Pagination/Test';
 function App() {
   return (
     <div className="App">
-     <Star noofStars={10} />
+     <Test />
     </div>
   );
 }
